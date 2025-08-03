@@ -44,7 +44,10 @@
 
 ## 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kr8865?theme=dark&font=baloo&ext=contest)](https://leetcode.com/kr8865/)
+## 💡 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kratika_agrawal_?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/kratika_agrawal_/)
+
 
 
 
