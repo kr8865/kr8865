@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Kratika Agrawal!
 ## 👩‍💻 About Me
-# 👋 Hi there, I'm Kratika Agrawal!
 
 🎓 B.Tech CSE @ GLA University (2022–2026)  
 💻 Frontend Dev | Django Learner | ML Enthusiast  
