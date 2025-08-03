@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Kratika Agrawal!
 ## 👩‍💻 About Me
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78C6C&width=435&lines=Hi+there!+I'm+Kratika+Agrawal.;A+Passionate+Web+Developer.;Django+%7C+Python+%7C+JS+Learner.;Currently+building+an+AI+Fashion+App!)
-
 - 🎓 B.Tech CSE | GLA University | 2027 Batch
 - 👩‍💻 Web Developer | Python & ML Learner | Django Enthusiast
 - 🌱 Learning: JavaScript, React, NumPy, Pandas, ML basics
@@ -10,6 +7,7 @@
 
   ## 📊 GitHub Stats
 ![Kratika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr8865&show_icons=true&theme=radical)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78C6C&width=435&lines=Hi+there!+I'm+Kratika+Agrawal.;A+Passionate+Web+Developer.;Django+%7C+Python+%7C+JS+Learner.;Currently+building+an+AI+Fashion+App!)
 
 ## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr8865&layout=compact&theme=radical)
