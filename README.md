@@ -1,18 +1,11 @@
 # 👋 Hi, I'm Kratika Agrawal!
 ## 👩‍💻 About Me
--## 🌟 About Me
+# 👋 Hi there, I'm Kratika Agrawal!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kratika+Agrawal.;B.Tech+CS+Student+%7C+GLA+University.;Frontend+Dev+%7C+Django+Explorer.;ML+Beginner+with+Python+passion.;Building+Krush+%E2%9C%A8+an+AI+Fashion+Recommender.;Coffee+%E2%98%95+Code+%E2%9C%94+Creativity+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
-
----
-
-🎓 **Computer Science Student** | GLA University (Batch 2022–2026)  
-👩‍💻 **Web Developer** | Learning React, Django & REST APIs  
-🧠 **AI & ML Explorer** | NumPy, Pandas, scikit-learn  
-🌱 Currently working on **"Krush"** — a personalized fashion & skincare platform using ML  
-🌸 Dreamer. Builder. Lifelong Learner.
+🎓 B.Tech CSE @ GLA University (2022–2026)  
+💻 Frontend Dev | Django Learner | ML Enthusiast  
+🌱 Currently learning: React, NumPy, Pandas, Machine Learning  
+🔭 Building: AI-Powered Fashion & Skincare Recommender – "Krush"  
 
 📫 Let's connect:[LeetCode](https://leetcode.com/u/kratika_agrawal_/)
 
